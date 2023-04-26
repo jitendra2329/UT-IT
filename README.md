@@ -71,4 +71,4 @@ Example
 
 To run the tests, navigate to the project root directory and execute the following command:
 
-sbt test
+       sbt test
